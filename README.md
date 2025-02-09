@@ -46,6 +46,6 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="BitR13x's Github Stats" src="https://github-readme-stats-bitr13x.vercel.app/api?username=bitr13x&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide_rank=true" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="BitR13x's Top Languages" src="https://github-readme-stats-bitr13x.vercel.app/api/top-langs/?username=bitr13x&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="file22's Github Stats" src="https://github-readme-stats-bitr13x.vercel.app/api?username=file22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide_rank=true" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="file22's Top Languages" src="https://github-readme-stats-bitr13x.vercel.app/api/top-langs/?username=file22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
